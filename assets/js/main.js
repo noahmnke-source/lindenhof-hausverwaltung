@@ -282,7 +282,7 @@
       form.classList.add('is-sending');
 
       // Netlify Forms nimmt den POST auf der eigenen Domain entgegen.
-      fetch(form.getAttribute('action') || window.location.pathname, {
+      fetch(form.getAttribute('action') || '/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: new URLSearchParams(new FormData(form)).toString()

@@ -98,6 +98,11 @@ Die Seite folgt dem System-Theme. Zum Erzwingen:
    (USt-IdNr., Steuernummer, Anschrift, Rufnummern, Versicherung).
 4. **Zahlen und Objektdaten** — Einheiten, Baujahre, Kennzahlen und Kundenstimmen
    sind erfunden (412 Einheiten, 27 Objekte, 5 Mitarbeitende, gegründet 2011).
+5. **Notdienstnummer** — `0171 392 00 24` ist eine Drama-Nummer der Bundesnetzagentur
+   (Block 0171 39200 00–99, Mitteilung 148/2021). Solche Nummern werden nie an
+   Teilnehmer vergeben, es kann also niemand versehentlich belästigt werden.
+   Vor dem Livegang durch die echte Notdienstnummer ersetzen.
+   Die Büronummer `0160 9586 5602` ist davon nicht betroffen.
 5. **Google Fonts** — für DSGVO-Konformität besser lokal einbinden
    (Libre Franklin, Source Sans 3).
 6. **Portal-Login** — der Button verweist aktuell auf den Kontaktabschnitt.
